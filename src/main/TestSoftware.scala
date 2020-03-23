@@ -6,7 +6,7 @@ object TestSoftware {
 
     var soft = new Software();
     println(soft.settersAndGetters("ApacheLicence", "2.0"))
-
+    println(soft.constructorConSinParametros())
   }
 
 }
